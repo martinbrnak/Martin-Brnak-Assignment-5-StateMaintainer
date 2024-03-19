@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StateMaintainer</string>
+    <string name="button">Press for a random cat</string>
+    <string name="hint_edit">Input text here</string>
+</resources>
